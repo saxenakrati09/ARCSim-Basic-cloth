@@ -1,0 +1,10 @@
+A square shaped napkin is manipulated by changing JSON files.
+
+This has various, very basic manipulation tasks:
+-> Napkin falling under gravity (napkin-falling.json)
+-> Napkin falling under gravity when pinned from 1 point (napkin1pinfall.json)
+-> Napkin falling under gravity when pinner from 2 points (napkin2pinfall.json)
+-> Napkin moving by two points synchronously (napkin2pin-move.json)
+-> Napkin moving by two points, points moving asynchronously (napkin2pin-move-random.json)
+
+Results are in 'results' folder.

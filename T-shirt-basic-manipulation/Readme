@@ -1,0 +1,10 @@
+A T-shirt is manipulated by changing JSON files.
+
+This has various, very basic manipulation tasks:
+-> T-shirt falling under gravity (tshirt-falling.json)
+-> T-shirt falling under gravity when pinned from 1 point (tshirt1pinfall.json)
+-> T-shirt falling under gravity when pinner from 2 points (tshirt2pinfall.json)
+-> T-shirt moving by two points synchronously (tshirt2pin-move.json)
+-> T-shirt moving by two points, points moving asynchronously (tshirt2pin-move-random.json)
+
+Results are in 'results' folder.
